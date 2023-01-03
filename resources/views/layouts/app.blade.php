@@ -17,6 +17,27 @@
         <!-- Styles -->
         @livewireStyles
         <link rel="stylesheet" href="https://unpkg.com/flowbite@1.5.5/dist/flowbite.min.css" />
+        <style>
+            .tournament-click {
+                background-color: #272B34;
+            }
+
+            .tournament-click:hover {
+               outline: solid #CCCCCC 1px;
+            }
+
+            @media (max-width: 1805px) {
+	            .tite-hide {
+                    display:none;
+                }
+            }
+            @media (max-width: 720px) {
+	            .small-col {
+                    display:flex;
+                    flex-direction: column;
+                }
+            }
+        </style>
     </head>
     <body class="font-roboto antialiased" style="font-family: roboto;">
         <x-jet-banner />
