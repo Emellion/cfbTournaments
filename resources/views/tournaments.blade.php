@@ -17,7 +17,7 @@
                     <button class="flex py-6 sm:px-20 flex-row sm:flex-col justify-evenly"
                         style="background-color: #04040a; width:50%">
                         <div class="flex font-medium text-white px-4 text-lg">
-                            <div class="flex rounded-full px-5 py-3"><img src="/ranks/Diamond_3_rank.png" width="50rem"
+                            <div class="flex rounded-full px-5 py-3"><img src="/Diamond_3_rank.png" width="50rem"
                                     class=""></div>
                         </div>
                         <div class="flex font-light text-white px-4 text-lg my-auto tite-hide">
@@ -42,7 +42,7 @@
                     <button class="flex py-6 sm:px-20 flex-row sm:flex-col justify-evenly"
                         style="background-color: #04040a; width:50%">
                         <div class="flex font-medium text-white px-4 text-lg">
-                            <div class="flex rounded-full px-5 py-3"><img src="/ranks/Diamond_3_rank.png" width="50rem"
+                            <div class="flex rounded-full px-5 py-3"><img src="/Diamond_3_rank.png" width="50rem"
                                     class=""></div>
                         </div>
                         <div class="flex font-light text-white px-4 text-lg my-auto tite-hide">
