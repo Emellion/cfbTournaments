@@ -22,4 +22,8 @@ class PagesController extends Controller
     public function leaderboardPage() {
         return view('leaderboard');
     }
+
+    public function createTournamentpage() {
+        return view('createTournament');
+    }
 }

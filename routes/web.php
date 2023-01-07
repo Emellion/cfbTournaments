@@ -35,6 +35,7 @@ Route::middleware([
     'verified'
 ])->group(function () {
     Route::get('/dashboard', [PagesController::class, 'dashboardPage'])->name('dashboard');
+    Route::get("/tournaments/create", [PagesController::class, 'createTournamentPage'])->name('createTournament');
 });
 
 // require_once __DIR__ . '/jetstream.php' ;
